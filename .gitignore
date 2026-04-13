@@ -1,0 +1,8 @@
+# Ignore the large data folder
+"Brazilian E-Commerce Public Dataset by olist/"
+
+# Ignore all CSV files
+*.csv
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/

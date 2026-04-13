@@ -110,7 +110,7 @@ User Retention & Business Decision Impact Analysis/
 │   ├── Sellers
 │   └── Product Category Translation
 │
-├── images/
+├── Images/
 │   ├── Overview.png
 │   ├── Cohort.png
 │   ├── Product.png
@@ -165,19 +165,19 @@ Covers:
 
 ### Customer Retention Overview Dashboard
 
-![Retention Overview](images/Overview.png)
+![Retention Overview](Images/Overview.png)
 
 ### Cohort & Behaviour Analysis Dashboard
 
-![Cohort Analysis](images/Cohort.png)
+![Cohort Analysis](Images/Cohort.png)
 
 ### Product & Seller Performance Dashboard
 
-![Product Performance](images/Product.png)
+![Product Performance](Images/Product.png)
 
 ### Logistics & Impact Dashboard
 
-![Logistics Impact](images/Logistics.png)
+![Logistics Impact](Images/Logistics.png)
 
 
 ### These dashboards provide complete visibility of customer behaviour, retention patterns, revenue distribution, product performance, and operational efficiency.

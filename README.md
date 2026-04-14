@@ -12,7 +12,7 @@
 * 🛠  [Tools & Technologies](#-tools--technologies)
 * 📁 [Project Structure](#-project-structure)
 * 🧹 [Data Cleaning & Preparation](#-data-cleaning--preparation)
-* 🔍 [SQL Business Questions](#-sql-business-questions)
+* 🔍 [SQL Business Questions](#-sql-business-questions-20)
 * 📊 [Dashboards](#-dashboards)
 * 📌 [Key Insights](#-key-insights)
 * ▶️ [How to Run This Project](#️-how-to-run-this-project)
